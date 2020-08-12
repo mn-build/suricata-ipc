@@ -1,7 +1,3 @@
-//
-// Created by Danny Browning on 10/6/18.
-//
-
 #include "suricata-common.h"
 #include "tm-threads.h"
 #include "conf.h"

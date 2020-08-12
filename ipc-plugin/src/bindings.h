@@ -1,6 +1,3 @@
-/* Copyright (C) 2020 Dragos
-*/
-
 #ifndef __RUST_BINDINGS_GEN_H_
 #define __RUST_BINDINGS_GEN_H_
 

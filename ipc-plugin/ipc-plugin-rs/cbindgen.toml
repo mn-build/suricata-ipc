@@ -10,8 +10,7 @@ language = "C"
 
 # An optional string of text to output at the beginning of the generated file
 # default: doesn't emit anything
-header = """/* Copyright (C) 2020 Dragos
-*/"""
+header = ""
 
 # An optional name to use as an include guard
 # default: doesn't emit an include guard

@@ -1,7 +1,3 @@
-//
-// Created by Danny Browning on 9/28/18.
-//
-
 #include "suricata-common.h"
 #include "suricata.h"
 #include "decode.h"
